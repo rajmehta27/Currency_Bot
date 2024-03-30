@@ -32,7 +32,7 @@ Welcome to the activation guide for our Discord bot! Follow these steps to set u
 - Use a code editor like VS Code for easier setup.
 - Install the following dependencies by running these commands in your terminal:
 
-  npm install discord.js
+  npm install discord.js<br>
   npm install --save-dev eslint
   npm install dotenv
   npm install mongoose
