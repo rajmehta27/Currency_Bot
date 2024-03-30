@@ -58,6 +58,6 @@ Welcome to the activation guide for our Discord bot! Follow these steps to set u
 ### Important Note:
 - Make sure to keep your bot token and sensitive information secure.
 - Double-check your configurations to ensure smooth operation.
-- For any issues or questions, refer to the documentation or contact the bot developer.
+- For any issues or questions, refer to the documentation or feel free to reach out.
 
 Now your Discord bot is ready! Have fun 🎉.
